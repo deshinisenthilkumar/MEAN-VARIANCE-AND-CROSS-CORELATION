@@ -59,6 +59,7 @@ r=corr(x,y,n1);
 plot2d3('gnn',r);
 ```
 OUTPUT
+
 <img width="500" height="300" alt="Screenshot 2025-11-23 103140" src="https://github.com/user-attachments/assets/b2300ab6-696a-4519-bed4-8370fe052957" />
 
 MANUAL CALCULATION:
